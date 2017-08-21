@@ -1,0 +1,11 @@
+{
+  "name": "vue-number-formating",
+  "version": "1.0.0",
+  "description": "Convert the number to the price format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mehrdad3na@gmail.com",
+  "license": "ISC"
+}
