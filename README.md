@@ -10,7 +10,7 @@ vue convert number to decimal formating
 ## config
  1 ) create file plugin/VueNumberFormating.js 
 
-```
+```javascript
  import Vue from 'vue'
  import VueNumberFormating from 'vue-number-formating'
 
@@ -20,7 +20,7 @@ vue convert number to decimal formating
 
 2 ) import To main.js
 
-```
+```javascript
     import Vue from 'vue'
     import App from './App.vue'
     import VueNumberFormating from './plugin/VueNumberFormating'
@@ -33,7 +33,7 @@ vue convert number to decimal formating
 
 
 ## use
-````
+````javascript
     <template>
         <p>{{ $nF.numberToFormat(1500000) }}</p>
         <span> Convert In 1,500,000 </span>
