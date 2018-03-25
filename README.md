@@ -1,8 +1,11 @@
 # VueNumberFormating
 vue convert number to decimal formating
 
-# install 
+# install
+
+```javascript
 > npm install --save vue-number-formating
+```
 
 ## config
  1 ) create file plugin/VueNumberFormating.js 
