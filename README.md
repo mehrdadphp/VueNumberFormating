@@ -23,7 +23,7 @@ vue convert number to decimal formating
 ```javascript
     import Vue from 'vue'
     import App from './App.vue'
-    import VueNumberFormating from './plugin/VueNumberFormating'
+    import './plugin/VueNumberFormating'
         
     new Vue({
       el: '#app',
