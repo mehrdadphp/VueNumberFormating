@@ -55,5 +55,13 @@ vue convert number to decimal formating
     
 ````
 
+remove cama : 
+
+```javascript
+this.$nF.removeCommasAmount('1,500,000'); // conevrt to 1500000
+```
+
+
+
 
 
