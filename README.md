@@ -7,6 +7,10 @@ vue convert number to decimal formating
 > npm install --save vue-number-formating
 ```
 
+```javascript
+> yarn add vue-number-formating
+```
+
 ## config
  1 ) create file plugin/VueNumberFormating.js 
 
